@@ -1,4 +1,4 @@
 # Tutorial
 Tutorial Repository \
-Tutorial Commit changes : 09/07/2020
-
+Tutorial commit changes : 09/07/2020
+(linebreak using backslash)
